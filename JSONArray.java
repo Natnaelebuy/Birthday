@@ -26,7 +26,7 @@ public class JSONArray {
             System.out.print("Enter your name: ");
             String name = scanner.nextLine();
             if(birthdays.get(name) != null)
-                System.out.println(name + " your birth date is: " + birthdays.get(name));
+                System.out.println(name + " my birth dat it: " + birthdays.get(name));
             else
                 System.out.println("Birth date not found");
     
